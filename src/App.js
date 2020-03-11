@@ -49,7 +49,7 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Welcome to React Clicky hhhGame!!</h1>
+          <h1 className="App-title">Welcome to React Dragon Ball Clicky Game!!</h1>
         </header>
         <h3 className="App-intro">
           <strong>Click on an image to earn points, but don't click on any, more than once!</strong> 
