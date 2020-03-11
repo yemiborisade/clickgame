@@ -1,86 +1,86 @@
 [
     {
       "id": 1,
-      "name": "SpongeBob",
-      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Spongebob-squarepants.svg/666px-Spongebob-squarepants.svg.png",
-      "occupation": "Fry Cook",
-      "location": "A Pineapple Under the Sea"
+      "name": "Vegeta",
+      "image": "https://upload.wikimedia.org/wikipedia/it/thumb/f/ff/Vegeta_-_Dragon_Ball_Kai.png/1200px-Vegeta_-_Dragon_Ball_Kai.png",
+      "occupation": "Saiyan Prince",
+      "location": "Planet Vegeta and Earth"
     },
     {
       "id": 2,
-      "name": "Mr. Krabs",
-      "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
-      "occupation": "Restaurant Owner",
-      "location": "A Giant Anchor"
+      "name": "Goku",
+      "image": "https://pm1.narvii.com/6211/edfa6effda5f1aac0856c982a205634cffc6873d_hq.jpg",
+      "occupation": "Saiyans",
+      "location": "Earth"
     },
     {
       "id": 3,
-      "name": "Squidward",
-      "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
-      "occupation": "Cashier",
-      "location": "An Easter Island Head"
+      "name": "Cell",
+      "image": "http://4.bp.blogspot.com/-YOoN_Ul9RxA/UiK8x8awXNI/AAAAAAAAAs0/NGpaqVmqD3k/s1600/20130124025053!283569_Papel-de-Parede-Perfect-Cell-Dragon-Ball-Z_1440x900.jpg",
+      "occupation": "Perfect Warrior",
+      "location": "Dr. Gero's Perfect Creation"
     },
     {
       "id": 4,
-      "name": "Dexter",
-      "image": "https://s-media-cache-ak0.pinimg.com/originals/fe/32/49/fe32495d45283cd6860ae122f0aeaad9.png",
+      "name": "Majin Buu",
+      "image": "https://www.bing.com/th?id=OIP.m0LyT8jdqiZykIy0HaKJsgAAAA&pid=Api&rs=1",
       "occupation": "Boy Genius",
-      "location": "A Secret Laboratory"
+      "location": "Planet Majin"
     },
     {
       "id": 5,
-      "name": "Courage",
-      "image": "https://vignette4.wikia.nocookie.net/vsbattles/images/3/39/Courage-0.png/revision/latest?cb=20160719055423",
-      "occupation": "A Cowardly Dog",
-      "location": "Nowhere, Kansas"
+      "name": "Frieza",
+      "image": "https://cdn1us.denofgeek.com/sites/denofgeekus/files/styles/main_wide/public/frieza_primary.png?itok=utqnVsCq",
+      "occupation": "Destroyer",
+      "location": "Planet Frieza"
     },
     {
       "id": 6,
-      "name": "Doug Funnie",
-      "image": "https://vignette1.wikia.nocookie.net/doug/images/3/3b/Doug001.gif/revision/latest?cb=20110807170511",
-      "occupation": "Student",
-      "location": "Bluffington"
+      "name": "Piccolo",
+      "image": "http://upload.wikimedia.org/wikipedia/it/0/00/Piccolo_Dragon_Ball.png",
+      "occupation": "Trainer and Fighter",
+      "location": "Earth"
     },
     {
       "id": 7,
-      "name": "Bugs Bunny",
-      "image": "https://vignette2.wikia.nocookie.net/deathbattlefanon/images/2/2b/Bugs_Bunny.png/revision/latest?cb=20151206010607",
-      "occupation": "Looney Toon",
-      "location": "A Rabbit Burrow"
+      "name": "Beerus",
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/35/Beerus_Battle_of_Gods.jpg",
+      "occupation": "Destructor",
+      "location": "Beerus Castle"
     },
     {
       "id": 8,
-      "name": "Johnny Bravo",
-      "image": "http://vignette3.wikia.nocookie.net/p__/images/9/9a/Johnny_Bravo.png/revision/latest?cb=20131031233339&path-prefix=protagonist",
-      "occupation": "Ladies Man",
-      "location": "Aron City"
+      "name": "Broly",
+      "image": "http://3.bp.blogspot.com/-5CzsGrspSck/UCPo4pFDZRI/AAAAAAAAF3Q/eEceMBNoWKI/s1600/Broly_ssj3__cell_shading_by_alessan.jpg",
+      "occupation": "Ultimate Saiyans",
+      "location": "Planet Vegeta"
     },
     {
       "id": 9,
-      "name": "Tommy Pickles",
-      "image": "https://vignette4.wikia.nocookie.net/uncyclopedia/images/e/e4/Tommy_Pickles.png/revision/latest?cb=20110530102641",
-      "occupation": "Adventurer",
-      "location": "California"
+      "name": "Jiren",
+      "image": "http://cdn.collider.com/wp-content/uploads/2018/02/dragon-ball-super-jiren.png",
+      "occupation": "Warrior",
+      "location": "Space"
     },
     {
       "id": 10,
-      "name": "Rocko",
-      "image": "http://vignette3.wikia.nocookie.net/rockosmodernlife/images/9/9e/Rockos-modern-life-4e582a8f06a41.png/revision/latest?cb=20130522173416",
-      "occupation": "Cashier",
-      "location": "O-Town, California"
+      "name": "Shenron",
+      "image": "http://imgs.tuts.dragoart.com/how-to-draw-shenron-from-dragon-ball-z_2_000000021978_5.png",
+      "occupation": "Keeper of Wishes",
+      "location": "Inside Dragonballs"
     },
     {
       "id": 11,
-      "name": "Captain Planet",
-      "image": "http://vignette2.wikia.nocookie.net/dragon-rap-battles/images/b/b6/Captain_Planet.png/revision/latest?cb=20160911200836",
-      "occupation": "Superhero",
+      "name": "Trunks",
+      "image": "https://www.bing.com/th?id=OIP.qvItkoJGXNjKaR3rI2VPLAAAAA&pid=Api&rs=1",
+      "occupation": "Gohan's Friend",
       "location": "Earth"
     },
     {
       "id": 12,
-      "name": "Ickis",
-      "image": "http://static.tvtropes.org/pmwiki/pub/images/ickis.png",
-      "occupation": "Ahhhh! A Real Monster!",
-      "location": "Under a City Dump"
+      "name": "Master Roshi",
+      "image": "https://jctunesmusic.files.wordpress.com/2014/07/masterroshidragonball.jpg",
+      "occupation": "Trainer",
+      "location": "Earth"
     }
   ]
